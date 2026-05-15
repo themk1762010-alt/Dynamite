@@ -63,6 +63,51 @@ const songs = {
             duration: "4:18",
             url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778830199/Beat_It_xxay5y.mp3",
             cover: "custom_cover.jpg"
+        },
+        {
+            id: 8,
+            title: "A Horse With No Name",
+            artist: "America",
+            album: "America",
+            duration: "4:12",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836522/America_-_A_Horse_With_No_Name_Official_Audio_-_320_Kbps_tbppg1.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 9,
+            title: "Reality In Motion",
+            artist: "Tame Impala",
+            album: "Currents",
+            duration: "4:12",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836523/Tame_Impala_-_Reality_In_Motion_Audio_-_320_Kbps_qqb0ya.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 10,
+            title: "New Person, Same Old Mistakes",
+            artist: "Tame Impala",
+            album: "Currents",
+            duration: "6:02",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836523/New_Person_Same_Old_Mistakes_g3cvzc.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 11,
+            title: "Neverender",
+            artist: "Justice",
+            album: "Hyperdrama",
+            duration: "4:26",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836525/Neverender_xu5zmg.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 12,
+            title: "Let It Happen",
+            artist: "Tame Impala",
+            album: "Currents",
+            duration: "7:47",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836527/Tame_Impala-Let_It_Happen-kissvk.com_ekabpg.mp3",
+            cover: "custom_cover.jpg"
         }
     ],
     "TAMIL & OTHER": []
