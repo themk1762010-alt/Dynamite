@@ -36,6 +36,33 @@ const songs = {
             duration: "5:57",
             url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778827699/Thriller_j2g0y4.mp3",
             cover: "custom_cover.jpg"
+        },
+        {
+            id: 5,
+            title: "They Don't Care About Us",
+            artist: "Michael Jackson",
+            album: "HIStory",
+            duration: "4:44",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778830198/They_Don_t_Care_About_Us_-_Michael_Jackson_-_US-UK_v1yxhv.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 6,
+            title: "Bad",
+            artist: "Michael Jackson",
+            album: "Bad",
+            duration: "4:07",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778830199/Bad_rqwpaj.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 7,
+            title: "Beat It",
+            artist: "Michael Jackson",
+            album: "Thriller",
+            duration: "4:18",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778830199/Beat_It_xxay5y.mp3",
+            cover: "custom_cover.jpg"
         }
     ],
     "TAMIL & OTHER": []
