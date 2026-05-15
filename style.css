@@ -663,7 +663,6 @@ body {
 .volume-bar {
     width: 100px;
 }
-
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
     .app-container {
