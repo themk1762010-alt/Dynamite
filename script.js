@@ -27,6 +27,15 @@ const songs = {
             duration: "3:36",
             url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778782813/07_-_The_Less_I_Know_The_Better_i2flok.mp3",
             cover: "custom_cover.jpg"
+        },
+        {
+            id: 4,
+            title: "Thriller",
+            artist: "Michael Jackson",
+            album: "Thriller",
+            duration: "5:57",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778827699/Thriller_j2g0y4.mp3",
+            cover: "custom_cover.jpg"
         }
     ],
     "TAMIL & OTHER": []
