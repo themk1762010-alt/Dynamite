@@ -108,6 +108,681 @@ const songs = {
             duration: "7:47",
             url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778836527/Tame_Impala-Let_It_Happen-kissvk.com_ekabpg.mp3",
             cover: "custom_cover.jpg"
+        },
+        {
+            id: 13,
+            title: "her  BaseNaija",
+            artist: "JVKE",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778921497/JVKE_-_her__BaseNaija_pxmceq.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 14,
+            title: "I Think They Call This Love - Cover  mp3.pm",
+            artist: "Matthew Ifield",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778921497/Matthew_Ifield_-_I_Think_They_Call_This_Love_-_Cover__mp3.pm_ukgyug.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 15,
+            title: "I Thought I Saw Your Face Today",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778921497/I_Thought_I_Saw_Your_Face_Today_pwulpa.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 16,
+            title: "Feel It - From The Original Series  Invincible  - d4vd",
+            artist: "SpotifyMate.com",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778921497/SpotifyMate.com_-_Feel_It_-_From_The_Original_Series__Invincible__-_d4vd_rmnlmq.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 17,
+            title: "JVKE golden hour official music video",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778921496/JVKE_golden_hour_official_music_video_glhbam.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 18,
+            title: "Just the Two of Us ft. Bill Withers",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919537/74._Just_the_Two_of_Us_feat._Bill_Withers_uxptoe.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 19,
+            title: "Don t Stop Til You Get Enough",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919536/75._Don_t_Stop_Til_You_Get_Enough_ntfuv8.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 20,
+            title: "From  Black Panther  The Album",
+            artist: "All The Stars ft. SZA",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919535/67._All_The_Stars_with_SZA_-_From__Black_Panther__The_Album__qopszk.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 21,
+            title: "F1",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919534/63._F1_y3fd1y.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 22,
+            title: "Can You Hear The Music",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919533/73._Can_You_Hear_The_Music_q78dyn.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 23,
+            title: "São Paulo ft. Anitta",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919532/70._S%C3%A3o_Paulo_feat._Anitta_n4lnqu.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 24,
+            title: "Single Version",
+            artist: "Rasputin",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919532/71._Rasputin_-_Single_Version_rkaica.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 25,
+            title: "Cause I m A Man",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919532/68._Cause_I_m_A_Man_oyylx0.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 26,
+            title: "Borderline",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919531/69._Borderline_mqvral.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 27,
+            title: "4 Raws",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919531/72._4_Raws_f3fbxm.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 28,
+            title: "Run For The Podium",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919529/64._Run_For_The_Podium_emweog.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 29,
+            title: "No Room For A Saint ft. Nathan Nicholson",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919529/65._No_Room_For_A_Saint_feat._Nathan_Nicholson_do9v6s.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 30,
+            title: "Lose My Mind ft. Doja Cat",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919527/62._Lose_My_Mind_feat._Doja_Cat_ldphtj.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 31,
+            title: "Single Version",
+            artist: "Come and Get Your Love",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919527/54._Come_and_Get_Your_Love_-_Single_Version_fzn3na.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 32,
+            title: "Something In The Way",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919527/60._Something_In_The_Way_cr3tzq.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 33,
+            title: "1985",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919526/61._1985_j3oqi7.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 34,
+            title: "Long Train Runnin",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919525/59._Long_Train_Runnin_xefwxd.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 35,
+            title: "Sway",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919523/55._Sway_jtzsm5.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 36,
+            title: "No Sleep Till Brooklyn",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919523/53._No_Sleep_Till_Brooklyn_w9cblk.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 37,
+            title: "Imanbek Remix",
+            artist: "Roses",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919523/58._Roses_-_Imanbek_Remix_buocdq.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 38,
+            title: "Home",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919523/56._Home_pyxf5d.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 39,
+            title: "Save Your Tears",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919515/52._Save_Your_Tears_axcxew.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 40,
+            title: "Cherry Bomb",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919515/47._Cherry_Bomb_q09fdx.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 41,
+            title: "Southern Nights",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919514/50._Southern_Nights_kb2i8z.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 42,
+            title: "You See Me",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919514/51._You_See_Me_y78goq.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 43,
+            title: "Fox On The Run",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919513/49._Fox_On_The_Run_xrwvms.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 44,
+            title: "Escape The Pina Colada Song",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919513/46._Escape_The_Pina_Colada_Song_lvu8xd.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 45,
+            title: "Feeling Good",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919512/45._Feeling_Good_kuecdf.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 46,
+            title: "Mono Version",
+            artist: "Ain t No Mountain High Enough",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919511/48._Ain_t_No_Mountain_High_Enough_-_Mono_Version_nezqsf.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 47,
+            title: "Spirit in the Sky",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919511/44._Spirit_in_the_Sky_z7xhbh.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 48,
+            title: "Chamber Of Reflection",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919510/42._Chamber_Of_Reflection_qqhbsv.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 49,
+            title: "Come and Get Your Love Rerecorded",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919509/43._Come_and_Get_Your_Love_Rerecorded_dhcb7p.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 50,
+            title: "Bye Bye Bye",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919509/31._Bye_Bye_Bye_muosdp.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 51,
+            title: "That s What I Like",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919509/41._That_s_What_I_Like_zuvcha.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 52,
+            title: "Just the Way You Are",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919509/40._Just_the_Way_You_Are_kwnnot.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 53,
+            title: "Diet Mountain Dew",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919507/37._Diet_Mountain_Dew_ik11rw.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 54,
+            title: "APT.",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919507/39._APT._dgwjf6.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 55,
+            title: "World s Smallest Violin",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919506/38._World_s_Smallest_Violin_eygivh.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 56,
+            title: "Superman",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919505/32._Superman_evrpuy.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 57,
+            title: "Midnight City",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919505/35._Midnight_City_fksq2b.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 58,
+            title: "I Wanna Be Yours",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919505/36._I_Wanna_Be_Yours_blyc2y.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 59,
+            title: "End of Beginning",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919504/34._End_of_Beginning_ockfvh.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 60,
+            title: "Gonna Be Okay",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919503/30._Gonna_Be_Okay_rsjvsl.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 61,
+            title: "SLASH From Deadpool Wolverine",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919503/33._SLASH_From_Deadpool_Wolverine_jt26vc.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 62,
+            title: "Life Goes On",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919502/29._Life_Goes_On_prrmeo.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 63,
+            title: "Beggin",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919501/27._Beggin_dplr8a.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 64,
+            title: "Ashes",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919500/28._Ashes_w4ad7n.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 65,
+            title: "Calm Down ft. Selena Gomez",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919500/26._Calm_Down_with_Selena_Gomez_dvdu0a.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 66,
+            title: "from the series Arcane League of Legends",
+            artist: "Enemy ft. JID",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919499/19._Enemy_with_JID_-_from_the_series_Arcane_League_of_Legends_btgwox.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 67,
+            title: "Sweet Child O Mine",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919499/22._Sweet_Child_O_Mine_ouktwm.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 68,
+            title: "Born For This",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919499/24._Born_For_This_gzwq3j.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 69,
+            title: "Sharks",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919498/23._Sharks_trx4je.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 70,
+            title: "Way down We Go",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919497/20._Way_down_We_Go_xo7at3.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 71,
+            title: "IDGAF ft. blackbear",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919496/21._IDGAF_with_blackbear_ibhfp7.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 72,
+            title: "Killing Strangers",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919495/16._Killing_Strangers_qjoz5l.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 73,
+            title: "Bones",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919494/17._Bones_tmoezv.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 74,
+            title: "Symphony",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919494/18._Symphony_uqb1vl.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 75,
+            title: "Every Summertime",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919493/13._Every_Summertime_atrtgo.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 76,
+            title: "EXTENDED",
+            artist: "INDUSTRY BABY",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919493/14._INDUSTRY_BABY_-_EXTENDED_omj7hj.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 77,
+            title: "Die For You",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919492/6._Die_For_You_aiisme.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 78,
+            title: "In The Dark ft. Jhené Aiko",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919491/12._In_The_Dark_with_Jhené_Aiko_y8oqsl.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 79,
+            title: "Blinding Lights",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919491/11._Blinding_Lights_s7db21.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 80,
+            title: "Run It ft. Rick Ross Rich Brian",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919490/5._Run_It_feat._Rick_Ross_Rich_Brian_d24565.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 81,
+            title: "Remaster",
+            artist: "Immigrant Song",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919489/7._Immigrant_Song_-_Remaster_basmvi.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 82,
+            title: "Where Are You",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919488/8._Where_Are_You_h5z3v7.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 83,
+            title: "Peaky Blinder",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919488/9._Peaky_Blinder_ug2wyl.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 84,
+            title: "Fire In The Sky",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919487/3._Fire_In_The_Sky_abp4k5.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 85,
+            title: "Heat Waves",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919487/2._Heat_Waves_kinat0.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 86,
+            title: "Spider-Man  Into the Spider-Verse",
+            artist: "Sunflower",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919486/4._Sunflower_-_Spider-Man__Into_the_Spider-Verse_iromof.mp3",
+            cover: "custom_cover.jpg"
+        },
+        {
+            id: 87,
+            title: "STAY ft. Justin Bieber",
+            artist: "Unknown Artist",
+            album: "Unknown Album",
+            duration: "3:00",
+            url: "https://res.cloudinary.com/dlbhr4bte/video/upload/v1778919486/1._STAY_with_Justin_Bieber_k2xjbl.mp3",
+            cover: "custom_cover.jpg"
         }
     ],
     "TAMIL & OTHER": []
