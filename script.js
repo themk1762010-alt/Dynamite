@@ -812,6 +812,8 @@ const timeTotal = document.getElementById("time-total");
 const trackName = document.getElementById("track-name");
 const artistName = document.getElementById("artist-name");
 const nowPlayingImg = document.getElementById("now-playing-img");
+const volumeBarBg = document.getElementById("volume-bar-bg");
+const volumeBarFill = document.getElementById("volume-bar-fill");
 
 // Initialization
 function init() {
@@ -1003,6 +1005,37 @@ function setupEventListeners() {
         const duration = audio.duration;
         audio.currentTime = (clickX / width) * duration;
     });
+
+    if (volumeBarBg) {
+        let isDraggingVolume = false;
+
+        const updateVolume = (clientX) => {
+            const rect = volumeBarBg.getBoundingClientRect();
+            let clickX = clientX - rect.left;
+            let volume = clickX / rect.width;
+            
+            if (volume < 0) volume = 0;
+            if (volume > 1) volume = 1;
+            
+            audio.volume = volume;
+            volumeBarFill.style.width = `${volume * 100}%`;
+        };
+
+        volumeBarBg.addEventListener('mousedown', (e) => {
+            isDraggingVolume = true;
+            updateVolume(e.clientX);
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (isDraggingVolume) {
+                updateVolume(e.clientX);
+            }
+        });
+
+        document.addEventListener('mouseup', () => {
+            isDraggingVolume = false;
+        });
+    }
 }
 
 // Start
