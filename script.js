@@ -941,8 +941,8 @@ const songs = {
         },
         {
                 "id": 18,
-                "title": "(From Naan Sirithal)",
-                "artist": "Breakup Song",
+                "title": "Breakup Song (From Naan Sirithal)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749585/84._Breakup_Song_-_From__Naan_Sirithal__m9abrh.mp3",
@@ -968,8 +968,8 @@ const songs = {
         },
         {
                 "id": 21,
-                "title": "(From Petta)",
-                "artist": "Ullaallaa",
+                "title": "Ullaallaa (From Petta)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749582/71._Ullaallaa_-_From__Petta__gia6iu.mp3",
@@ -1013,8 +1013,8 @@ const songs = {
         },
         {
                 "id": 26,
-                "title": "(From Petta)",
-                "artist": "Petta Theme",
+                "title": "Petta Theme (From Petta)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749577/68._Petta_Theme_-_From__Petta__kglasd.mp3",
@@ -1040,8 +1040,8 @@ const songs = {
         },
         {
                 "id": 29,
-                "title": "(From Mr). Local",
-                "artist": "Takkunu Takkunu",
+                "title": "Takkunu Takkunu (From Mr. Local)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749573/74._Takkunu_Takkunu_-_From__Mr._Local__a5zhxz.mp3",
@@ -1076,8 +1076,8 @@ const songs = {
         },
         {
                 "id": 33,
-                "title": "(From Petta)",
-                "artist": "Singaar Singh Theme",
+                "title": "Singaar Singh Theme (From Petta)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749567/69._Singaar_Singh_Theme_-_From__Petta__tpvpp5.mp3",
@@ -1085,8 +1085,8 @@ const songs = {
         },
         {
                 "id": 34,
-                "title": "(From Petta)",
-                "artist": "Marana Mass",
+                "title": "Marana Mass (From Petta)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749566/70._Marana_Mass_-_From__Petta__n9mchi.mp3",
@@ -1337,8 +1337,8 @@ const songs = {
         },
         {
                 "id": 62,
-                "title": "(From Think Indie)",
-                "artist": "Kaaka Kadha",
+                "title": "Kaaka Kadha (From Think Indie)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749532/32._Kaaka_Kadha_-_From__Think_Indie__f8vvss.mp3",
@@ -1472,8 +1472,8 @@ const songs = {
         },
         {
                 "id": 77,
-                "title": "(From Jil Jung Juk)",
-                "artist": "Shoot the Kuruvi",
+                "title": "Shoot the Kuruvi (From Jil Jung Juk)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749514/26._Shoot_the_Kuruvi_-_From__Jil_Jung_Juk__tcu5uc.mp3",
@@ -1607,8 +1607,8 @@ const songs = {
         },
         {
                 "id": 92,
-                "title": "(From Petta)",
-                "artist": "Petta Paraak",
+                "title": "Petta Paraak (From Petta)",
+                "artist": "Unknown Artist",
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749499/11._Petta_Paraak_-_From__Petta__ncyxfc.mp3",
@@ -1675,6 +1675,1707 @@ const songs = {
                 "album": "Unknown Album",
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780749491/2._Udhungada_Sangu_From__Velai_Illa_Pattadhaari__sa3qme.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 100,
+                "title": "Monica (From Coolie Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756033/98._Monica_From__Coolie__Tamil_rnq2za.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 101,
+                "title": "Vizhi Veekura (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756030/94._Vizhi_Veekura_-_From__Think_Indie__zhoojc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 102,
+                "title": "Minnalvala (From Narivetta)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756028/93._Minnalvala_From__Narivetta__ceap9s.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 103,
+                "title": "Venpani Malare Male",
+                "artist": "The Romance Of Power Paandi",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756027/92._The_Romance_Of_Power_Paandi_-_Venpani_Malare_Male_fs8tf1.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 104,
+                "title": "Dahaa Theme (From Coolie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756027/99._Dahaa_Theme_From__Coolie__xrpcx9.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 105,
+                "title": "Chikitu (From Coolie Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756025/97._Chikitu_From__Coolie__Tamil_auqji7.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 106,
+                "title": "Coolie Disco (From Coolie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756023/96._Coolie_Disco_From__Coolie__vq5ji6.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 107,
+                "title": "Powerhouse (From Coolie Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756020/95._Powerhouse_From__Coolie__Tamil_fl2l8k.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 108,
+                "title": "En Kadhal Solla",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780756017/91._En_Kadhal_Solla_x51u27.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 109,
+                "title": "Entammede Jimikki Kammal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755934/88._Entammede_Jimikki_Kammal_elw3f4.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 110,
+                "title": "Starboy",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755934/90._Starboy_hizabx.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 111,
+                "title": "Naan Un",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755926/89._Naan_Un_sc6xdz.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 112,
+                "title": "Mawaa Enthaina",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755922/87._Mawaa_Enthaina_dh5m9u.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 113,
+                "title": "Param Sundari",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755751/86._Param_Sundari_maceta.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 114,
+                "title": "Chammak Challo",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755750/85._Chammak_Challo_e2r4b9.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 115,
+                "title": "Jagadhish On Mission Theme",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755750/64._Jagadhish_On_Mission_Theme_wceczn.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 116,
+                "title": "Saree Ke Fall Sa",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755742/84._Saree_Ke_Fall_Sa_dl9k1x.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 117,
+                "title": "Edharkaga Marubadi",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755735/80._Edharkaga_Marubadi_forjwr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 118,
+                "title": "One Two Three Four Get On The Dance Floor",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755735/83._One_Two_Three_Four_Get_On_The_Dance_Floor_iuxnbd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 119,
+                "title": "Titli",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755735/82._Titli_csusut.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 120,
+                "title": "Thaniye (From Vidaamuyarchi)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755731/81._Thaniye_From__Vidaamuyarchi__banvz8.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 121,
+                "title": "The One (From Retro)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755728/77._The_One_From__Retro__k0xl3p.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 122,
+                "title": "Karate Kid",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755727/79._Karate_Kid_j1gadn.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 123,
+                "title": "Kanimaa (From Retro)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755727/76._Kanimaa_From__Retro__swrfuw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 124,
+                "title": "Kannadi Poove (From Retro)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755726/75._Kannadi_Poove_From__Retro__scbpxe.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 125,
+                "title": "Yendi Vittu Pona (From Dragon)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755725/74._Yendi_Vittu_Pona_-_From__Dragon__dnparw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 126,
+                "title": "Sithira Puthiri (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755722/70._Sithira_Puthiri_-_From__Think_Indie__jjlkgt.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 127,
+                "title": "Vazhithunaiye (From Dragon)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755722/73._Vazhithunaiye_-_From__Dragon__of90dh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 128,
+                "title": "Chuttamalle (From Devara Part 1)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755720/72._Chuttamalle_From__Devara_Part_1__iuwmig.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 129,
+                "title": "Katchi Sera (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755718/71._Katchi_Sera_-_From__Think_Indie__y97img.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 130,
+                "title": "Aasa Kooda (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755718/69._Aasa_Kooda_-_From__Think_Indie__exbyvh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 131,
+                "title": "Yennai Izhukkuthadi (From Kadhalikka Neramillai)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755713/68._Yennai_Izhukkuthadi_From__Kadhalikka_Neramillai__km3h9z.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 132,
+                "title": "Kalasala Kalasala",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755712/62._Kalasala_Kalasala_zillvr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 133,
+                "title": "Vennilavu Saaral (From Amaran Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755711/67._Vennilavu_Saaral_From__Amaran__Tamil_ke1axx.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 134,
+                "title": "Uyirey (From Amaran Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755711/66._Uyirey_From__Amaran__Tamil_d90ax5.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 135,
+                "title": "Hey Minnale (From Amaran Tamil)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755710/65._Hey_Minnale_From__Amaran__Tamil_yx0mgw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 136,
+                "title": "Dheema (From Love Insurance Kompany)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755707/63._Dheema_From__Love_Insurance_Kompany__bv2kds.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 137,
+                "title": "Thappu Pannitten",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755705/61._Thappu_Pannitten_fdxqmj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 138,
+                "title": "Chinna Chinna Kangal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755704/60._Chinna_Chinna_Kangal_u8nhue.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 139,
+                "title": "Kandha Kara Vada",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755704/59._Kandha_Kara_Vada_snmzs0.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 140,
+                "title": "Goindhammavaala",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755702/57._Goindhammavaala_psljft.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 141,
+                "title": "Pottadhu Pathala",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755701/58._Pottadhu_Pathala_mmf8xe.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 142,
+                "title": "The Life of Ram",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755699/49._The_Life_of_Ram_iimnpq.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 143,
+                "title": "Rait Zara Si",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755696/56._Rait_Zara_Si_ed8qox.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 144,
+                "title": "Here Comes Maari",
+                "artist": "Maari Thara Local From Maari",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755695/55._Maari_Thara_Local_From__Maari__-_Here_Comes_Maari_xq47fc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 145,
+                "title": "Pala Pala",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755693/52._Pala_Pala_fyqfjn.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 146,
+                "title": "Sirikkadhey",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755693/53._Sirikkadhey_ltarrm.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 147,
+                "title": "Sakkarakatti",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755691/54._Sakkarakatti_gvuysu.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 148,
+                "title": "Edhathan Kandutte",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755688/51._Edhathan_Kandutte_wbo03k.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 149,
+                "title": "Matargashti",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755687/46._Matargashti_hrsmi7.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 150,
+                "title": "Version 1",
+                "artist": "Kaathalae Kaathalae",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755685/50._Kaathalae_Kaathalae_-_Version_1_twlumg.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 151,
+                "title": "Naan Gaali",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755684/48._Naan_Gaali_zkqbxb.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 152,
+                "title": "VIP Title Song",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755682/47._VIP_Title_Song_e7mkpo.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 153,
+                "title": "Iravingu Theevai",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755681/40._Iravingu_Theevai_ibp6iu.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 154,
+                "title": "Raanjhanaa (From Raanjhanaa)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755679/45._Raanjhanaa_From__Raanjhanaa__dp15bk.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 155,
+                "title": "No Money No Honey",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755676/20._No_Money_No_Honey_lqjrx6.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 156,
+                "title": "Anthaathi",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755676/41._Anthaathi_b6n0gu.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 157,
+                "title": "Raayan Rumble",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755676/43._Raayan_Rumble_zfyses.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 158,
+                "title": "Oh Raaya",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755674/42._Oh_Raaya_muirb1.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 159,
+                "title": "Netru Aval Irundhaal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755673/33._Netru_Aval_Irundhaal_addegf.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 160,
+                "title": "Oru Naalil",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755671/38._Oru_Naalil_hf6wpy.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 161,
+                "title": "Thooriga (From Navarasa)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755670/39._Thooriga_-_From__Navarasa__vqieee.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 162,
+                "title": "Vaan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755667/37._Vaan_wfqtuk.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 163,
+                "title": "Kadhal Ara Onnu Vizundhuchu",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755663/25._Kadhal_Ara_Onnu_Vizundhuchu_xf6fjz.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 164,
+                "title": "Nallai Allai",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755663/36._Nallai_Allai_cguma8.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 165,
+                "title": "Nenjae Yezhu",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755662/34._Nenjae_Yezhu_h1qruz.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 166,
+                "title": "Azhagiye",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755662/35._Azhagiye_ha3p3o.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 167,
+                "title": "Innum Konjam Neram",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755658/32._Innum_Konjam_Neram_sjrbsg.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 168,
+                "title": "Sonapareeya",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755656/31._Sonapareeya_gvztc2.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 169,
+                "title": "Kun Faya Kun",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755655/29._Kun_Faya_Kun_faywku.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 170,
+                "title": "Welcome To Hyderabad (From Premalu)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755655/21._Welcome_To_Hyderabad_From__Premalu__fivvvw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 171,
+                "title": "Mental Manadhil",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755652/30._Mental_Manadhil_r2xep5.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 172,
+                "title": "Naakka Mukka",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755651/28._Naakka_Mukka_az1mnr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 173,
+                "title": "Vaadi Pulla Vaadi",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755648/27._Vaadi_Pulla_Vaadi_rcq6lw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 174,
+                "title": "Naan Nee",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755647/23._Naan_Nee_acx8wc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 175,
+                "title": "Kadhalikathey (From Imaikkaa Nodigal)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755646/26._Kadhalikathey_-_From__Imaikkaa_Nodigal__enlhbk.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 176,
+                "title": "Kadhal Kappal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755643/24._Kadhal_Kappal_vtwqmc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 177,
+                "title": "En Rojaa Neeye",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755639/22._En_Rojaa_Neeye_eqw4jr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 178,
+                "title": "Kanmani Anbodu (From Gunaa)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755639/19._Kanmani_Anbodu_From__Gunaa__vohwh2.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 179,
+                "title": "Arjan Vailly",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755638/12._Arjan_Vailly_ez0hhj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 180,
+                "title": "Unakku Thaan (From Chithha)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755637/18._Unakku_Thaan_-_From__Chithha__veztcy.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 181,
+                "title": "Vaaya moodi summa iruda",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755632/17._Vaaya_moodi_summa_iruda_edgcue.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 182,
+                "title": "Illuminati (From Aavesham)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755632/6._Illuminati_-_From__Aavesham__b3wzsd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 183,
+                "title": "Nenjukkule",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755631/1._Nenjukkule_eofq9n.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 184,
+                "title": "Kutti Puli Kootam",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755630/15._Kutti_Puli_Kootam_jooj5k.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 185,
+                "title": "Yethi Yethi",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755629/14._Yethi_Yethi_zlrt9j.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 186,
+                "title": "The Don s Romance",
+                "artist": "Don u Don u Don u",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755628/16._Don_u_Don_u_Don_u_-_The_Don_s_Romance_jlk9ej.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 187,
+                "title": "Ranvijay s Entry Medley (From ANIMAL)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755624/13._Ranvijay_s_Entry_Medley_From__ANIMAL__sl0fiw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 188,
+                "title": "10000 Pax (From Jigarthanda Doublex)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755624/11._10000_Pax_-_From__Jigarthanda_Doublex__voeaeb.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 189,
+                "title": "Jaada (From Aavesham)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755621/8._Jaada_-_From__Aavesham__wxa1zf.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 190,
+                "title": "Maamadura (From Jigarthanda DoubleX)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755620/10._Maamadura_-_From__Jigarthanda_DoubleX__bpuk54.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 191,
+                "title": "Ordinary Person (From Leo)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755620/4._Ordinary_Person_From__Leo__ggcd8l.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 192,
+                "title": "Vaanganna Vanakkanganna",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755619/5._Vaanganna_Vanakkanganna_sy5vq3.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 193,
+                "title": "The Last Dance",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755618/9._The_Last_Dance_uowr0v.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 194,
+                "title": "Galatta (From Aavesham)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755615/7._Galatta_-_From__Aavesham__groioh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 195,
+                "title": "Background Score",
+                "artist": "Lokiverse",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755615/2._Lokiverse_-_Background_Score_vesff5.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 196,
+                "title": "Lokiverse 2.0",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780755612/3._Lokiverse_2.0_vylv3a.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 197,
+                "title": "Make Way For The King (From Raaka)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807667/93._Make_Way_For_The_King_From__Raaka__y8ncmx.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 198,
+                "title": "Vaari Jaavan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807667/89._Vaari_Jaavan_ps8q8l.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 199,
+                "title": "Raga of Revenge (From DC)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807667/92._Raga_of_Revenge_From__DC__vf54lt.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 200,
+                "title": "Jaiye Sajana",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807666/91._Jaiye_Sajana_yfqajx.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 201,
+                "title": "Phir Se",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807666/90._Phir_Se_rb3pr2.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 202,
+                "title": "Aakhri Ishq",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807664/88._Aakhri_Ishq_rfhqyh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 203,
+                "title": "Kaadhal Yaathiriye (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807663/87._Kaadhal_Yaathiriye_-_From__Think_Indie__dy5g0r.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 204,
+                "title": "അംശം",
+                "artist": "Amsham",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807663/86._Amsham_-_%E0%B4%85%E0%B4%82%E0%B4%B6%E0%B4%82_yr4q5f.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 205,
+                "title": "Pavazha Malli (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807661/82._Pavazha_Malli_-_From__Think_Indie__s8xesf.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 206,
+                "title": "Naanga Naalu Peru (From Karuppu)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807662/85._Naanga_Naalu_Peru_-_From__Karuppu__lms23d.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 207,
+                "title": "Nenjukulle Nee (From Vadacurry)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807661/84._Nenjukulle_Nee_From__Vadacurry__v5z0gq.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 208,
+                "title": "Manogari",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807660/83._Manogari_u2ixhw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 209,
+                "title": "Paan Ki Dukaan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807659/81._Paan_Ki_Dukaan_m5voxo.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 210,
+                "title": "Danga Maari Oodhari",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807658/79._Danga_Maari_Oodhari_rdjdv6.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 211,
+                "title": "Where Is the Party (From Silambattam)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807657/78._Where_Is_the_Party_From__Silambattam__rv1gjr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 212,
+                "title": "Sajni",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807657/80._Sajni_j3hxbd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 213,
+                "title": "Kathala Kannala",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807656/76._Kathala_Kannala_nannbt.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 214,
+                "title": "Adhaaru Adhaaru",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807655/77._Adhaaru_Adhaaru_cxnqvl.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 215,
+                "title": "Kanadhasan Karaikudi",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807654/75._Kanadhasan_Karaikudi_bdua7h.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 216,
+                "title": "Channa Mereya",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807653/73._Channa_Mereya_qzfdur.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 217,
+                "title": "Aaja Raja (From KH x RK Reunion)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807652/74._Aaja_Raja_From__KH_x_RK_Reunion__nnmigs.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 218,
+                "title": "Yeh Ishq Ishq",
+                "artist": "Move",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807651/70._Move_-_Yeh_Ishq_Ishq_jjulyj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 219,
+                "title": "Lutt Le Gaya",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807651/72._Lutt_Le_Gaya_mjbghx.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 220,
+                "title": "Naal Nachna",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807650/71._Naal_Nachna_hh11cq.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 221,
+                "title": "Karvaan",
+                "artist": "Ishq Jalakar",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807648/69._Ishq_Jalakar_-_Karvaan_yw290k.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 222,
+                "title": "Shararat",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807648/68._Shararat_qvbev7.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 223,
+                "title": "Title Track",
+                "artist": "Dhurandhar",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807647/66._Dhurandhar_-_Title_Track_azrmko.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 224,
+                "title": "Ramba Ho",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807646/67._Ramba_Ho_o8pjel.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 225,
+                "title": "Gehra Hua",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807646/64._Gehra_Hua_yuawos.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 226,
+                "title": "Bhasad Macha (From Deva)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807645/65._Bhasad_Macha_-_From__Deva__zomog1.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 227,
+                "title": "Ennamo Yeadho (From KO)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807644/60._Ennamo_Yeadho_From__KO__gpddce.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 228,
+                "title": "Daavudi (From Devara Part 1)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807643/62._Daavudi_From__Devara_Part_1__mrsfz3.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 229,
+                "title": "Flute Flow (From Remo)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807643/63._Flute_Flow_From__Remo__nu5vhm.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 230,
+                "title": "23 Theme (From AA23)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807642/61._23_Theme_From__AA23__agkbhe.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 231,
+                "title": "Anbil Avan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807641/59._Anbil_Avan_simnlr.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 232,
+                "title": "Ennodu Nee Irundhaal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807640/58._Ennodu_Nee_Irundhaal_gyskll.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 233,
+                "title": "Chella Magale (From Jana Nayagan)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807639/57._Chella_Magale_From__Jana_Nayagan__ybs5rb.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 234,
+                "title": "Side B",
+                "artist": "Edharkaga Marubadi Male Version From Retro",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807639/55._Edharkaga_Marubadi_Male_Version_From__Retro_-_Side_B__kgko3f.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 235,
+                "title": "The Paradise Theme OST (From The Paradise)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807637/56._The_Paradise_Theme_OST_From__The_Paradise__mhttko.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 236,
+                "title": "Khulke Jeene Ka",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807636/53._Khulke_Jeene_Ka_pljsqj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 237,
+                "title": "Main Tumhara",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807636/54._Main_Tumhara_dewo6j.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 238,
+                "title": "Tere Ishk Mein",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807634/48._Tere_Ishk_Mein_b45vix.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 239,
+                "title": "Jigar Thanda",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807634/51._Jigar_Thanda_ade2rj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 240,
+                "title": "Dil Bechara",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807634/52._Dil_Bechara_xafbda.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 241,
+                "title": "Deewaana Deewaana",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807633/50._Deewaana_Deewaana_yngfvd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 242,
+                "title": "Aawaara Angaara",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807633/49._Aawaara_Angaara_do8fkc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 243,
+                "title": "Nadhiye (From The Girlfriend)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807630/47._Nadhiye_From__The_Girlfriend__lqp5uh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 244,
+                "title": "Thalli Pogathey",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807629/46._Thalli_Pogathey_utebkt.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 245,
+                "title": "Yaaro Manathile",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807629/44._Yaaro_Manathile_auyvue.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 246,
+                "title": "Side A Title Track (From Sapta Sagaradaache Ello - Side A)",
+                "artist": "Sapta Sagaradaache Ello",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807628/45._Sapta_Sagaradaache_Ello_-_Side_A_Title_Track_From__Sapta_Sagaradaache_Ello_-_Side_A__ukgppd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 247,
+                "title": "Vaarayo Vaarayo",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807628/43._Vaarayo_Vaarayo_fhif0m.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 248,
+                "title": "Manjal Veyil",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807627/41._Manjal_Veyil_m7jg1k.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 249,
+                "title": "Oru Maalai",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807626/42._Oru_Maalai_zdrr38.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 250,
+                "title": "Engeyum Kaadhal",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807624/39._Engeyum_Kaadhal_cn6kib.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 251,
+                "title": "Hasili Fisiliye",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807624/40._Hasili_Fisiliye_wtrtin.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 252,
+                "title": "Mazhai Vara Pogudhae",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807623/38._Mazhai_Vara_Pogudhae_o2xv7v.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 253,
+                "title": "Roja Kadale",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807621/37._Roja_Kadale_stqkqh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 254,
+                "title": "Maara Makka (From Think Indie)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807621/36._Maara_Makka_-_From__Think_Indie__yq96es.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 255,
+                "title": "Aaruyire",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807620/35._Aaruyire_vcmqpg.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 256,
+                "title": "Guns and Roses (From They Call Him OG)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807619/34._Guns_and_Roses_From__They_Call_Him_OG__nsljvs.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 257,
+                "title": "Trance of Omi (From They Call Him OG)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807618/33._Trance_of_Omi_From__They_Call_Him_OG__trsifi.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 258,
+                "title": "Hungry Cheetah (From They Call Him OG)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807617/32._Hungry_Cheetah_From__They_Call_Him_OG__rmzat9.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 259,
+                "title": "Rekka Rekka (From Bison Kaalamaadan)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807616/30._Rekka_Rekka_-_From__Bison_Kaalamaadan__im9thw.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 260,
+                "title": "Arasan Theme (From Arasan)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807616/31._Arasan_Theme_From__Arasan__lzxgzd.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 261,
+                "title": "Enjaami Thandhaane",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807615/29._Enjaami_Thandhaane_pxopoi.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 262,
+                "title": "Kadhal Yennulle",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807614/28._Kadhal_Yennulle_m8gznf.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 263,
+                "title": "Evan Di Una Pethan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807613/25._Evan_Di_Una_Pethan_y3iibb.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 264,
+                "title": "Ennadi Maayavi Nee (From VadaChennai)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807613/27._Ennadi_Maayavi_Nee_From__VadaChennai__mrfoel.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 265,
+                "title": "Kaarkuzhal Kadavaiye",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807613/26._Kaarkuzhal_Kadavaiye_odhrnn.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 266,
+                "title": "Nijamellam Maranthupochu",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807610/24._Nijamellam_Maranthupochu_ffzd6p.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 267,
+                "title": "Kannamma (From Ispade Rajavum Idhaya Raniyum)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807610/23._Kannamma_-_From__Ispade_Rajavum_Idhaya_Raniyum__xz1w06.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 268,
+                "title": "Yumabaibesa",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807608/22._Yumabaibesa_sfr3mj.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 269,
+                "title": "Kannukulla Reprise",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807608/20._Kannukulla_Reprise_nqzzth.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 270,
+                "title": "Blud Is On His Way",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807607/21._Blud_Is_On_His_Way_mjsmsm.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 271,
+                "title": "Trailer Blast (From Dude)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807605/18._Trailer_Blast_-_From__Dude__stycqh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 272,
+                "title": "Oorum Blood Unplugged",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807605/19._Oorum_Blood_Unplugged_v5ep5l.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 273,
+                "title": "Kannukulla (From Dude)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807605/17._Kannukulla_-_From__Dude__xmdkt0.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 274,
+                "title": "Singari (From Dude)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807604/16._Singari_-_From__Dude__kxqsgf.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 275,
+                "title": "Oorum Blood (From Dude)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807603/15._Oorum_Blood_-_From__Dude__tj8lqm.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 276,
+                "title": "Nallaru Po (From Dude)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807602/14._Nallaru_Po_-_From__Dude__qotub9.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 277,
+                "title": "Remix",
+                "artist": "Vaa Vaa Pakkam Vaa",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807601/13._Vaa_Vaa_Pakkam_Vaa_-_Remix_zpdnwu.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 278,
+                "title": "Unadhu Enadhu",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807600/12._Unadhu_Enadhu_cgq7sk.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 279,
+                "title": "Animal Instinct",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807598/11._Animal_Instinct_w1sngv.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 280,
+                "title": "Mudinja Thodra",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807598/10._Mudinja_Thodra_pab4oh.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 281,
+                "title": "Thangapoovey",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807597/9._Thangapoovey_fsj1v2.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 282,
+                "title": "Jaalakaari (From Balti)",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807596/8._Jaalakaari_-_From__Balti__ve4phb.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 283,
+                "title": "Adiye",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807597/6._Adiye_jkl98a.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 284,
+                "title": "I Am The Danger",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807595/7._I_Am_The_Danger_khmyyc.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 285,
+                "title": "Sirukki Vaasam",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807595/4._Sirukki_Vaasam_nj5djy.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 286,
+                "title": "Title Track",
+                "artist": "Kalank",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807594/2._Kalank_-_Title_Track_xctoox.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 287,
+                "title": "Yedho Ondru Ennai",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807594/5._Yedho_Ondru_Ennai_ig3gx2.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 288,
+                "title": "Powerhouse x Disco",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:00",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807593/1._Powerhouse_x_Disco_kzukwf.mp3",
                 "cover": "custom_cover.jpg"
         }
 ]
