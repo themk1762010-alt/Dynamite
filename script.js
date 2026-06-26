@@ -3377,6 +3377,51 @@ const songs = {
                 "duration": "3:00",
                 "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1780807593/1._Powerhouse_x_Disco_kzukwf.mp3",
                 "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 289,
+                "title": "Karuppa Kooda Va",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "4:10",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1782453447/Karuppa_Kooda_Va_etbp4v.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 290,
+                "title": "Athu Thalore",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:51",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1782453445/Athu_Thalore_xfiuz0.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 291,
+                "title": "Raathu Raasan",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "3:15",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1782453446/Raathu_Raasan_xrb369.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 292,
+                "title": "Verappa - Extended",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "4:20",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1782453444/Verappa_-_Extended_blv99s.mp3",
+                "cover": "custom_cover.jpg"
+        },
+        {
+                "id": 293,
+                "title": "Aaya Sher",
+                "artist": "Unknown Artist",
+                "album": "Unknown Album",
+                "duration": "4:47",
+                "url": "https://res.cloudinary.com/dlbhr4bte/video/upload/v1782453443/Aaya_Sher_g3dwfn.mp3",
+                "cover": "custom_cover.jpg"
         }
 ]
 };
