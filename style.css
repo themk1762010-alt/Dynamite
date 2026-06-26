@@ -665,102 +665,330 @@ body {
 }
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
+    body {
+        height: 100vh;
+        overflow: hidden;
+    }
+
     .app-container {
         flex-direction: column;
-        overflow-y: auto;
+        height: 100vh;
+        overflow: hidden;
         padding: 0;
         gap: 0;
     }
 
+    /* Sidebar as compact top navigation */
     .sidebar {
         width: 100%;
-        padding: 8px;
+        padding: 0;
+        gap: 0;
+        background-color: #000;
+        border-bottom: 1px solid #1a1a1a;
+        flex-shrink: 0;
     }
 
     .logo {
-        justify-content: center;
+        display: none; /* Hide logo on mobile to save space */
     }
 
     .nav-links {
         flex-direction: row;
         justify-content: space-around;
+        background-color: #000;
+        border-radius: 0;
+        padding: 4px 0;
     }
 
     .nav-item {
         flex-direction: column;
-        gap: 4px;
-        font-size: 12px;
-        padding: 8px;
+        gap: 2px;
+        font-size: 10px;
+        font-weight: 500;
+        padding: 6px;
+        flex: 1;
+        text-align: center;
     }
 
+    .nav-item i {
+        font-size: 16px;
+    }
+
+    /* Playlists as horizontal scrollable chip bar */
     .playlists-container {
-        max-height: 200px;
+        background-color: #000;
+        border-radius: 0;
+        padding: 4px 12px 8px 12px;
+        overflow: hidden;
         flex: none;
     }
 
+    .playlists-header {
+        display: none; /* Hide header and plus button */
+    }
+
+    .playlist-list {
+        flex-direction: row;
+        overflow-x: auto;
+        gap: 8px;
+        padding: 2px 0;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .playlist-list::-webkit-scrollbar {
+        display: none; /* Hide scrollbar for cleaner look */
+    }
+
+    .playlist-item {
+        padding: 6px 14px;
+        font-size: 12px;
+        font-weight: 600;
+        border-radius: 500px;
+        background-color: #1a1a1a;
+        border: 1px solid #282828;
+        white-space: nowrap;
+        flex-shrink: 0;
+    }
+
+    .playlist-item.active {
+        background-color: var(--text-bright-accent);
+        color: #000;
+        border-color: var(--text-bright-accent);
+    }
+
+    /* Main Content Area */
     .main-content {
-        flex: none;
+        flex: 1;
         height: auto;
-        min-height: 100vh;
+        min-height: 0; /* Allow shrinking */
+        border-radius: 0;
+        background: linear-gradient(to bottom, #222222 0%, var(--bg-base) 200px);
     }
 
     .topbar {
-        padding: 0 12px;
+        height: 56px;
+        padding: 0 16px;
+        background-color: rgba(18, 18, 18, 0.8);
+        backdrop-filter: blur(10px);
+    }
+
+    .nav-controls {
+        display: none; /* Hide chevron buttons on mobile */
+    }
+
+    .search-container {
+        flex: 1;
+        height: 38px;
+        margin-right: 12px;
     }
 
     .upgrade-btn {
         display: none;
     }
 
-    .search-container {
-        margin-right: 8px;
+    .profile-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    .content-scrollable {
+        padding-bottom: 90px; /* Padding to prevent player overlap */
     }
 
     .playlist-header-view {
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding: 16px;
+        padding: 16px 24px;
+        gap: 12px;
     }
 
     .playlist-cover {
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
+    }
+
+    .playlist-details {
+        align-items: center;
+        gap: 4px;
     }
 
     #current-playlist-title {
-        font-size: 36px;
+        font-size: 32px;
+        margin-bottom: 4px;
+    }
+
+    .playlist-description {
+        font-size: 12px;
+    }
+
+    .playlist-controls-row {
+        padding: 12px 24px;
+        justify-content: center;
+        gap: 16px;
+    }
+
+    .play-all-btn {
+        width: 48px;
+        height: 48px;
+        font-size: 20px;
+    }
+
+    .songs-list-container {
+        padding: 0 12px;
     }
 
     .songs-header {
-        display: none;
+        display: none; /* Hide headers on mobile */
     }
 
     .song-row {
-        grid-template-columns: 30px 1fr 40px;
-        padding: 8px;
+        grid-template-columns: 30px 1fr 50px;
+        padding: 8px 4px;
+        gap: 8px;
+    }
+
+    .song-img {
+        width: 36px;
+        height: 36px;
+    }
+
+    .song-title-text {
+        font-size: 14px;
+    }
+
+    .song-artist {
+        font-size: 12px;
     }
 
     .song-album {
         display: none;
     }
 
+    .song-duration {
+        font-size: 12px;
+    }
+
+    /* Fixed Premium Mobile Player */
     .player {
-        height: auto;
-        flex-direction: column;
-        padding: 12px;
-        gap: 12px;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 75px;
+        background-color: rgba(18, 18, 18, 0.95);
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 16px 8px 16px;
+        z-index: 9999;
     }
 
     .player-left {
-        width: 100%;
+        width: 60%;
+        min-width: 0;
+        gap: 12px;
+    }
+
+    .now-playing-img {
+        width: 42px;
+        height: 42px;
+        flex-shrink: 0;
+    }
+
+    .now-playing-info {
+        min-width: 0;
+    }
+
+    .track-name {
+        font-size: 13px;
+        font-weight: 600;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .artist-name {
+        font-size: 11px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .like-btn {
+        display: none; /* Hide like button on mobile player bar to save space */
     }
 
     .player-center {
+        width: 35%;
+        max-width: none;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 0;
+    }
+
+    .player-controls {
+        gap: 16px;
+    }
+
+    .player-controls .icon-btn:not(#prev-btn):not(#next-btn) {
+        display: none; /* Hide shuffle/repeat on mobile player bar */
+    }
+
+    .player-controls .icon-btn {
+        font-size: 16px;
+    }
+
+    .play-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 14px;
+    }
+
+    /* Full-width interactive progress bar at the very top of the mobile player */
+    .progress-container {
+        position: absolute;
+        top: -2px; /* Positioned exactly at the top edge of the player */
+        left: 0;
+        right: 0;
         width: 100%;
+        padding: 0;
+        margin: 0;
+        gap: 0;
+        height: 14px; /* Taller touch target */
+        z-index: 10000;
+    }
+
+    .time-current,
+    .time-total {
+        display: none; /* Hide timestamps on mobile player bar for clean look */
+    }
+
+    .progress-bar-wrapper {
+        width: 100%;
+        height: 100%;
+        padding: 5px 0; /* Creates an invisible taller tap area */
+        margin: 0;
+    }
+
+    .progress-bar-bg {
+        height: 3px;
+        border-radius: 0;
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .progress-bar-fill {
+        height: 100%;
+        border-radius: 0;
+        background-color: var(--text-bright-accent); /* Green progress bar on mobile */
     }
 
     .player-right {
-        display: none;
+        display: none; /* Hide volume and desktop icons on mobile */
     }
 }

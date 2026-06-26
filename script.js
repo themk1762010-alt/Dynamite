@@ -3671,10 +3671,11 @@ function setupEventListeners() {
 
     progressBarBg.addEventListener("click", (e) => {
         if (!audio.duration) return;
-        const width = progressBarBg.clientWidth;
-        const clickX = e.offsetX;
+        const rect = progressBarBg.getBoundingClientRect();
+        const clickX = e.clientX - rect.left;
+        const width = rect.width;
         const duration = audio.duration;
-        audio.currentTime = (clickX / width) * duration;
+        audio.currentTime = Math.max(0, Math.min(1, clickX / width)) * duration;
     });
 
     if (volumeBarBg) {
